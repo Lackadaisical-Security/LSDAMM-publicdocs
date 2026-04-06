@@ -4,7 +4,7 @@
 # LSDAMM
 ## Lackadaisical Spectral Distributed AI MCP Mesh
 
-[![CI/CD Pipeline](https://github.com/The-Spectral-Operator/LSDAMM/actions/workflows/ci.yml/badge.svg)](https://github.com/The-Spectral-Operator/LSDAMM/actions/workflows/ci.yml)
+[![CI/CD Pipeline](https://github.com/Lackadaisical-Security/LSDAMM/actions/workflows/ci.yml/badge.svg)](https://github.com/Lackadaisical-Security/LSDAMM/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Version](https://img.shields.io/badge/version-1.1.0-blue.svg)](https://github.com/The-Spectral-Operator/LSDAMM/releases)
 
@@ -503,7 +503,7 @@ npm run build
 For additional help:
 - 📖 [Windows Setup Guide](docs/WINDOWS_SETUP.md)
 - 📖 [API Documentation](docs/API.md)
-- 🐛 [GitHub Issues](https://github.com/The-Spectral-Operator/LSDAMM/issues)
+- 🐛 [GitHub Issues](https://github.com/Lackadaisical-Security/LSDAMM/issues)
 - 💬 Check server logs in `server/logs/server.log`
 
 ---
@@ -527,7 +527,7 @@ MIT License - see [LICENSE](LICENSE) for details.
 ## 📞 Support
 
 - **Documentation**: [docs/](docs/)
-- **Issues**: [GitHub Issues](https://github.com/The-Spectral-Operator/LSDAMM/issues)
+- **Issues**: [GitHub Issues](https://github.com/Lackadaisical-Security/LSDAMM/issues)
 - **Email**: support@lackadaisical-security.com
 
 ---
