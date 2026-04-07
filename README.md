@@ -6,7 +6,7 @@
 
 [![CI/CD Pipeline](https://github.com/Lackadaisical-Security/LSDAMM/actions/workflows/ci.yml/badge.svg)](https://github.com/Lackadaisical-Security/LSDAMM/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Version](https://img.shields.io/badge/version-1.1.0-blue.svg)](https://github.com/The-Spectral-Operator/LSDAMM/releases)
+[![Version](https://img.shields.io/badge/version-1.1.0-blue.svg)](https://github.com/Lackadaisical-Security/LSDAMM/releases)
 
 > **Phase Ω Online · Shadow Lattice Resonates**
 
@@ -141,7 +141,7 @@ LSDAMM/
 
 1. **Download or clone the repository**:
    ```powershell
-   git clone https://github.com/The-Spectral-Operator/LSDAMM.git
+   git clone https://github.com/Lackadaisical-Security/LSDAMM.git
    cd LSDAMM
    ```
 
@@ -173,7 +173,7 @@ The setup script will:
 
 ```bash
 # Clone repository
-git clone https://github.com/The-Spectral-Operator/LSDAMM.git
+git clone https://github.com/Lackadaisical-Security/LSDAMM.git (Not publicly available at this time)
 cd LSDAMM
 
 # Install server dependencies
